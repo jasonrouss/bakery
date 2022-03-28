@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.72be084c.css",
+    "main.js": "/static/js/main.f76a1cac.js",
+    "static/media/bread.jpg": "/static/media/bread.c33a231d5235475de992.jpg",
+    "static/media/manager.jpg": "/static/media/manager.74cc9a6de80f93b945c4.jpg",
+    "static/media/owner.jpg": "/static/media/owner.3b43ec4eb15b7c8c31d5.jpg",
+    "static/media/about.jpg": "/static/media/about.37030db857b905eff0ae.jpg",
+    "static/media/chef.jpg": "/static/media/chef.61e3ead450610b0589fb.jpg",
+    "static/media/waiter.jpg": "/static/media/waiter.7c785e609432cc124970.jpg",
+    "static/media/location.jpg": "/static/media/location.5ce8971c09fa47eeaf41.jpg",
+    "static/media/hours.jpg": "/static/media/hours.06986323f0d6959a9c5f.jpg",
+    "static/media/cookie.jpg": "/static/media/cookie.6f658fa813b64d2bc4db.jpg",
+    "static/media/menu.jpg": "/static/media/menu.3e33201f24c6a563214a.jpg",
+    "static/media/delivery.jpg": "/static/media/delivery.f8d779c864c0013b54bc.jpg",
+    "static/media/croissant.jpg": "/static/media/croissant.730ebe2977de7470c368.jpg",
+    "static/media/logo.png": "/static/media/logo.d4097584e3160ddd926d.png",
+    "index.html": "/index.html",
+    "main.72be084c.css.map": "/static/css/main.72be084c.css.map",
+    "main.f76a1cac.js.map": "/static/js/main.f76a1cac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72be084c.css",
+    "static/js/main.f76a1cac.js"
+  ]
+}
