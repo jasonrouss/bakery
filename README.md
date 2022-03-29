@@ -12,4 +12,4 @@ Website that helps the customer getting familiar with the buisness information ,
 
 ### Accessible and very intuitive
  
- Website: jr-bakery.netlify.app/
+ Website: https://jr-bakery.netlify.app/
